@@ -11,7 +11,7 @@
 
 - 👨‍💻 Conoce mi sitio web [www.javimata.com](www.javimata.com)
 
-- 📝 Escribí el libro [https://libros.javimata.com](15 grandes errores del ecommerce)
+- 📝 Escribí el libro **15 grandes errores del ecommerce** - https://libros.javimata.com
 
 - 💬 Estoy aprendiendo **react, nextjs, gatsby, etc**
 
