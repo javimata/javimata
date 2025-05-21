@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente trabajo como CTO en **@AdviewMX**
 
-- 👨‍💻 Conoce mi sitio web [https://www.javimata.com](www.javimata.com)
+- 👨‍💻 Conoce mi sitio web <a href="https://www.javimata.com" target="_blank">javimata.com</a>
 
 - 📝 Escribí el libro **15 grandes errores del ecommerce** - https://libros.javimata.com
 
